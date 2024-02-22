@@ -1,0 +1,8 @@
+Libellé 1;Libellé 2;Famille;Sous-Famille;Code Medial;Quantité;Lieu;Modalité;Dotation;Toxicité;Code barre;abri lumière;frigo;Médicament à risque
+ÉclatQuotidien ;RadianceRoutinier;fake;1;1943;1;Lyon;?;Frigo;0;$R1943;oui;oui;oui
+TurboBoost360 ;VitesseMax360;fake;1;7584;1;Lyon;?;Armoire;1;$R7584;non;non;non
+SaveurHarmonie ;SaveurÉnergie;fake2;2;123;4;Clermont;?;Consommables;2;$R123;oui;oui;oui
+ZenSiesta ;CalmeRepos;fake2;2;432;2;Paris;?;Chariot urgence;1;$R432;oui;oui;oui
+SparkSprint ;ÉnergieFoudre;fake;1;6754;6;Marseille;?;Frigo;0;$R6754;oui;non;oui
+NovaBlend ;MixÉclat;fake;1;3456;1;Clermont;?;Chariot urgence;0;$R3456;oui;oui;non
+LunaGlow ;RayonLune;fake3;3;1903;2;Lyon;?;Armoire;2;$R1903;non;oui;oui
