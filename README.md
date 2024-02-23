@@ -1,11 +1,10 @@
 # Etiquette
 
-Il s'agit d'un POC d'application windows de génération d'etiquette. Cet application aurais pour but
-de simplifier le processus de remplacement / creation de nouvelle etiquette en ce basant sur une base
-d'articles.
+Il s'agit d'un POC d'application Windows de génération d'étiquettes. Cette application aurait
+pour but de simplifier le processus de remplacement/création de nouvelles étiquettes en se basant sur une base d'articles.
 
-Microsoft store: Non disponible
-Application non signé.
+Microsoft Store: Non disponible
+Application non signée.
 
 un executable et un fichier d'exemple sont disponible dans le dossier exemple
 
@@ -20,7 +19,8 @@ Engine • revision 04817c99c9
 Tools • Dart 3.3.0 • DevTools 2.31.1
 ```
 
-Pour compiler et lancer le project lancer les commande suivantes :
+Pour compiler et lancer le projet, lancez les commandes suivantes :
+
 - `flutter clean`
 - `flutter pub get`
 - `flutter pub upgrade`
